@@ -4,7 +4,7 @@
 
 组长：
 
-组员：hwx,xhb，cjh , WR
+组员：hwx, xhb, cjh, WR
 
 ## 文件夹架构
 
